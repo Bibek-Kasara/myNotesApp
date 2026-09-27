@@ -61,4 +61,4 @@ noteInput.addEventListener("keydown", (event) => {
     }
 });
 
-displayNotes();
+displayNotes(); 
